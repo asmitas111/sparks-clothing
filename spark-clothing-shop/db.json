@@ -1,0 +1,475 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "asmi",
+    "email": "hk@gma.co",
+    "phone": "456",
+    "message": "sfvcg"
+  },
+  "product": [
+    {
+      "id": 1,
+      "category": "mens-clothing",
+      "src": "./Assets/MensWear/men1.jpg",
+      "alt": "imh",
+      "description": "clothes shirt",
+      "title": "ArmNI",
+      "price": 1899,
+      "rating": "25k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "mens-clothing",
+      "title": "CHANEL",
+      "src": "Assets/images/MensWear/men2.jpg",
+      "price": 1999,
+      "rating": "21k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "mens-clothing",
+      "title": "HRX",
+      "src": "Assets/images/MensWear/men3.jpg",
+      "price": 1299,
+      "rating": "20k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "mens-clothing",
+      "title": "Us polo",
+      "src": "Assets/images/MensWear/men4.jpg",
+      "price": 1799,
+      "rating": "19k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "mens-clothing",
+      "title": "Roadster",
+      "src": "Assets/images/MensWear/men5.jpg",
+      "price": 799,
+      "rating": "18k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "mens-clothing",
+      "title": "Peter England",
+      "src": "Assets/images/MensWear/men6.jpg",
+      "price": 1299,
+      "rating": "17k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "mens-clothing",
+      "title": "Van Heusen",
+      "src": "Assets/images/MensWear/men7.jpg",
+      "price": 1599,
+      "rating": "16k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "mens-clothing",
+      "title": "Roadster",
+      "src": "Assets/images/MensWear/men8.jpg",
+      "price": 899,
+      "rating": "15k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "womens-clothing",
+      "src": "Assets/images/WomenWear/women1.jpg",
+      "alt": "imgw1",
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "description": "women clothing best fashion foot forward.",
+      "likes": "4.3k",
+      "price": 1899,
+      "rating": "13k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "womens-clothing",
+      "src": "Assets/images/WomenWear/women2.jpg",
+      "alt": "imgw2",
+      "title": "Tee",
+      "description": "women clothing best fashion foot forward.",
+      "likes": "4.5k",
+      "price": 1899,
+      "rating": "12k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "womens-clothing",
+      "src": "Assets/images/WomenWear/women3.jpg",
+      "alt": "imgw3",
+      "title": "Women clothes",
+      "description": "women clothing best fashion foot forward.",
+      "likes": "3k",
+      "price": 1899,
+      "rating": "11k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "womens-clothing",
+      "src": "Assets/images/WomenWear/women4.jpg",
+      "alt": "imgw4",
+      "title": "fENTY",
+      "description": "women clothing best fashion foot forward.",
+      "likes": "7k",
+      "price": 1899,
+      "rating": "10k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "womens-clothing",
+      "src": "Assets/images/WomenWear/women5.jpg",
+      "alt": "imgw5",
+      "title": "Gucci exclusive",
+      "description": "women clothing best fashion foot forward.",
+      "likes": "598",
+      "price": 1899,
+      "rating": "9k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": "",
+          "rating": "14k"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "womens-clothing",
+      "src": "Assets/images/WomenWear/women6.jpg",
+      "alt": "imgw6",
+      "title": "balenciaga",
+      "description": "women clothing best fashion foot forward.",
+      "likes": "1k",
+      "price": 1899,
+      "rating": "8k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "womens-clothing",
+      "src": "Assets/images/WomenWear/women7.jpg",
+      "alt": "imgw7",
+      "title": "Schiaprelli",
+      "description": "women clothing best fashion foot forward.",
+      "likes": "3.2k",
+      "price": 1899,
+      "rating": "7k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "womens-clothing",
+      "src": "Assets/images/WomenWear/women8.jpg",
+      "alt": "imgw8",
+      "title": "Exhange old nave tshirt",
+      "description": "women clothing best fashion foot forward.",
+      "likes": "3k",
+      "price": 1899,
+      "rating": "6k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "kids-clothing",
+      "src": "Assets/images/KidsWear/kid1.jpg",
+      "alt": "imgk1",
+      "title": "kidscollection",
+      "description": "kidsclothing best fashion foot forward.",
+      "likes": "3k",
+      "price": 1899,
+      "rating": "6k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "kids-clothing",
+      "src": "Assets/images/KidsWear/kid2.jpg",
+      "alt": "imgk2",
+      "title": "prada",
+      "description": "kidsclothing best fashion foot forward.",
+      "likes": "1k",
+      "price": 4599,
+      "rating": "5k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "kids-clothing",
+      "src": "Assets/images/KidsWear/kid3.jpg",
+      "alt": "imgk3",
+      "title": "malini agrawal kids collection",
+      "description": "kidsclothing best fashion foot forward.",
+      "likes": "2.3k",
+      "price": 2000,
+      "rating": "4k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "kids-clothing",
+      "src": "Assets/images/KidsWear/kid4.jpg",
+      "alt": "imgk4",
+      "title": "solimo ",
+      "description": "kidsclothing best fashion foot forward.",
+      "likes": "3.3k",
+      "price": 1999,
+      "rating": "3k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "kids-clothing",
+      "src": "Assets/images/KidsWear/kid5.jpg",
+      "alt": "imgk5",
+      "title": "drad",
+      "description": "kidsclothing best fashion foot forward.",
+      "likes": "1.2k",
+      "price": 599,
+      "rating": "2k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "kid-clothing",
+      "src": "Assets/images/KidsWear/kid6.jpg",
+      "alt": "imgk6",
+      "title": "culpa ",
+      "description": "kidsclothing best fashion foot forward.",
+      "likes": "3k",
+      "price": 1599,
+      "rating": "1k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "kids-clothing",
+      "src": "Assets/images/KidsWear/kid7.jpg",
+      "alt": "imgk7",
+      "title": "loreme",
+      "description": "kidsclothing best fashion foot forward.",
+      "likes": "3.5k",
+      "price": 2899,
+      "rating": "1.5k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "category": "kids-clothing",
+      "src": "Assets/images/KidsWear/kid8.jpg",
+      "alt": "imgk8",
+      "title": "exclusive kidXcol",
+      "description": "kidsclothing best fashion foot forward.",
+      "likes": "3.2k",
+      "price": 899,
+      "rating": "1.2k",
+      "Reviews": [
+        {
+          "id": 1,
+          "name": "",
+          "email": "",
+          "feedBack": ""
+        }
+      ]
+    }
+  ],
+  "contactData": {
+    "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+    "phone": [
+      "(91) 987 654 3210",
+      "(91) 987 654 3211"
+    ],
+    "email": "contact@sparkclothing.com"
+  },
+  "getInTouchData": [
+    {
+      "name": "Asmita",
+      "email": "Asmita",
+      "message": "smita",
+      "id": 7
+    }
+  ]
+}
