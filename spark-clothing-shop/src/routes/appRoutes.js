@@ -6,6 +6,7 @@ import ContactUsPage from '../pages/ContactUsPage/ContactUsPage';
 import HomePage from '../pages/HomePage/HomePage';
 import Feedback from '../pages/ProductPage/Feedback/Feedback';
 import ProductPage from '../pages/ProductPage/ProductPage';
+import LoginPage from '../pages/LoginPage/LoginPage';
 
 export const appRoutes = (
   <Routes>
@@ -16,6 +17,7 @@ export const appRoutes = (
   <Route path="/contact-us" element={<ContactUsPage />} />
   <Route path="/product" element={<ProductPage />} />
     <Route path="/product/feedback" element={<Feedback />} />
+  <Route path="/login" element={<LoginPage />} />  
  </Routes>
  
 );
