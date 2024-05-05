@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useState } from 'react'; 
 import logo from '../../Assets/images/contact.png';
-import JsDemo from './JsDemo';
+// import JsDemo from './JsDemo';
 
 const ContactUsPage = () => {
   const [isSaved, setIsSaved] = useState(false);
@@ -93,8 +93,8 @@ const ContactUsPage = () => {
         </div>
       </form>
       </div>
-      <hr></hr>
-      <JsDemo />
+      
+    
     </div>
   );
 };

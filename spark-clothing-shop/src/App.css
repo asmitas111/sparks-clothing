@@ -2,6 +2,17 @@
   background-color: #ccb881dc;
 }
 
+main{
+  min-height: 100vh;
+  margin-bottom: -100px;
+}
+footer, .push{
+  height: 100px;
+}
+footer{
+  background-color: #ccb881dc;
+}
+
 .divider:after,
 .divider:before {
 content: "";
@@ -13,7 +24,5 @@ background: #eee;
 height: calc(100% - 73px);
 }
 @media (max-width: 450px) {
-.h-custom {
-height: 100%;
-}
+
 }

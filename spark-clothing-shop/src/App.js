@@ -26,7 +26,10 @@ function App() {
       <BrowserRouter>
         <div className="container mt-5 pt-3">
           <Header></Header>
+          </div>
+          <div className="main-container">
           <main className="container mt-5 pt-3">{appRoutes}</main>
+          <div className="push"></div>
           <Footer name={name} />
         </div>
       </BrowserRouter>
